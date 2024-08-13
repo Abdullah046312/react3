@@ -17,11 +17,11 @@ function App() {
     <>
      <Header/>
      <Firstpart/>
-     <Secondpart/>
+     {/* <Secondpart/>
      <Thirdpart/>
      <Fourthpart/>
      <Fifthpart/>
-     <Sixthpart/>
+     <Sixthpart/> */}
      <Seventhpart/>
      <Footerpart/>
     
