@@ -1,0 +1,46 @@
+#footer{
+    padding: 120px 0px;
+    background-color: rgba(255, 255, 255, 0.144);
+}
+
+.twenty_seven p{
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    color: #29313D;
+    margin-top: 20px;
+}
+
+.twenty_eight h4{
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #29313D;
+    padding-bottom: 20px;
+}
+
+.twenty_eight h5{
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    color: #29313D;
+    margin-top: 20px;
+}
+
+.twenty_nine{
+    margin-top: 60px;
+}
+
+.twenty_nine h4{
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    color: #29313D;
+}
+
+.twenty_nine h2{
+    font-size: 18px;
+    font-family: "Calistoga", serif;
+    font-weight: 400;
+    color: #29313D;
+}

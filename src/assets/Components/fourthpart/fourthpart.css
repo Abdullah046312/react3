@@ -1,0 +1,54 @@
+#fourth{
+    background-color: #EDF3F7;
+    padding: 120px 0px;
+}
+
+.sixteen{
+    text-align: center;
+}
+
+.sixteen h2{
+    font-size: 36px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #000000;
+}
+
+.sixteen p{
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    color: #29313D;
+}
+
+.seventeen img{
+    width: 100% !important;
+}
+.seventeen{
+    background-color: #FFFF;
+    padding: 20PX 20PX;
+    margin-top: 60px;
+    transition: .5s;
+    transform: scale(1);
+}
+
+.seventeen:hover{
+    background-color: #FD5F36;
+    transform: scale(1.1);
+
+}
+
+.seventeen h4{
+    font-size: 14px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: #000000;
+    margin-top: 20px;
+}
+
+.seventeen h3{
+    font-size: 28px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #29313D;
+}

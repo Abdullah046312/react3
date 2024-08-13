@@ -1,0 +1,75 @@
+#Fifth{
+    background-color: #FFDCD8;
+    padding: 120px 0px;
+}
+
+.eightten{
+    background-color: #FFFFFF;
+    text-align: center;
+   
+    
+    
+    
+}
+.eightten h2{
+    font-size: 40px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #000000;
+    padding-top: 20px;
+    
+}
+
+.eightten p{
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    color: #29313D;
+    padding-bottom: 20px;
+}
+
+.nineteen h2{
+    font-size: 48px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #29313D;
+    
+}
+
+.nineteen p{
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    color: #29313D;
+    margin-top: 20px;
+}
+
+.nineteen button{
+    margin-top: 40px;
+    padding: 10px 40px;
+    background-color: #FF5538;
+    color: #FFFF;
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    border: none;
+    
+    transition: .5s;
+    transform: scale(1);
+}
+
+.nineteen button:hover{
+    background-color: #3639A4;
+    transform: scale(1.1);
+}
+
+.nineteen{
+    position: relative;
+}
+
+.twenty img{
+    width: 80%;
+    position: absolute;
+    top: -100px;
+    left: 405px;
+}

@@ -1,0 +1,61 @@
+#seventh{
+    background-color: #FFD7C8;
+    padding: 120px 0px;
+}
+
+.twenty_three h4{
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    color: #29313D;
+}
+
+.twenty_three h2{
+    font-size: 42px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #29313D;
+}
+.twenty_four button{
+    padding: 10px 30px;
+    background-color: #FD5F36;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-radius: 18px;
+    border: none;
+    transition: .5s;
+    transform: scale(1);
+}
+
+.twenty_four button:hover{
+    background-color: #8454F5;
+    border: yellow;
+    transform: scale(1.1);
+}
+
+.twenty_five img{
+    margin-top: 60px;
+}
+
+.twenty_five p{
+    font-size: 20px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    color: #29313D;
+    margin-top: 20px;
+}
+
+.twenty_five{
+    position: relative;
+}
+
+.twenty_six img{
+    position: absolute;
+    top: -280px;
+    left: 1140px;
+    
+}

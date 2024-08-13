@@ -1,0 +1,97 @@
+#sixth{
+    background-color: #EDF3F7;
+    padding: 120px 0px;
+}
+
+.twenty_one{
+    text-align: center;
+}
+
+.twenty_one h4{
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #FD5F36;
+}
+
+.twenty_one h2{
+    font-size: 48px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #29313D;
+}
+
+
+.twenty_two{
+    background-color: #FFD7C8;
+    padding: 40px 40px;
+    margin-top: 60px;
+    transition: .5s;
+    transform: scale(1);
+    -webkit-box-shadow: -1px -1px 11px 5px rgba(0,0,0,0.58);
+-moz-box-shadow: -1px -1px 11px 5px rgba(0,0,0,0.58);
+box-shadow: -1px -1px 11px 5px rgba(0,0,0,0.58);
+}
+
+.twenty_two:hover{
+    background-color: #FD5F36;
+    transform: scale(1.1);
+}
+
+
+.twenty_two h4{
+    font-size: 36px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #29313D;
+}
+
+.twenty_two p{
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    color: #29313D;
+    margin-top: 20px;
+}
+
+.twenty_two h2{
+    font-size: 48px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #29313D;
+}
+
+.twenty_two button{
+    padding: 10px 30px;
+    background-color: #FD5F36;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-radius: 18px;
+    border: none;
+    transition: .5s;
+    transform: scale(1);
+}
+
+.twenty_two button:hover{
+    background-color: #8454F5;
+    border: yellow;
+    transform: scale(1.1);
+}
+
+.twenty_two h5{
+    font-size: 20px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    color: #29313D;
+    margin-top: 20px;
+}
+
+
+
+
+
+

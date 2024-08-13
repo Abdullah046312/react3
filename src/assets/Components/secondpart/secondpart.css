@@ -1,0 +1,54 @@
+#second{
+    padding: 120px 0px;
+}
+.six_main{
+    text-align: center;
+}
+
+.six_main h2{
+    font-size: 48px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #29313D;
+}
+
+.six_main p{
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    color: #29313D;
+}
+
+.seven{
+    background-color: hwb(39 70% 4% / 0.301);
+    text-align: center;
+    padding: 40px 40px;
+    margin-top: 50px;
+    position: relative;
+}
+.eight img{
+    position: absolute;
+    top: -25px;
+    left: -22px;
+    width: 20%;
+}
+.nine img{
+    position: absolute;
+    top: -25px;
+    left: -22px;
+    width: 20%;
+}
+.ten img{
+    position: absolute;
+    top: -25px;
+    left: -22px;
+    width: 20%;
+}
+
+.seven h2{
+    font-size: 36px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #29313D;
+    margin-top: 20px;
+}

@@ -1,0 +1,67 @@
+#third{
+    background-color: #FCF5F3;
+    padding: 60px 0px;
+}
+.eleven h2{
+    font-size: 36px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #000000;
+}
+.twelve{
+    background-color: #FFFF;
+    margin-top: 20px;
+    padding: 20px 80px;
+    position: relative;
+}
+
+.twelve h4{
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #29313D;
+}
+.twelve p{
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    color: #29313D;
+}
+.thirteen img{
+    position: absolute;
+    top: 16px;
+    left: 18px;
+}
+
+.fourteen img{
+    width: 100%;
+    margin-top: 60px;
+    transform: scale(1);
+    transition: .5s;
+}
+
+.fourteen img:hover{
+    transform: scale(1.2);
+}
+
+.fiveteen button{
+    margin-top: 60px;
+    padding: 10px 40px;
+    background-color: #FF5538;
+    color: #FFFF;
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    border: none;
+    
+    transition: .5s;
+    transform: scale(1);
+    
+   
+}
+
+
+.fiveteen button:hover{
+    background-color: #3639A4;
+    transform: scale(1.1);
+}
